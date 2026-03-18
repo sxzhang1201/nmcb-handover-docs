@@ -1,4 +1,4 @@
-# NMCB hand-over documentation
+# NMCB Data Manager Hand-over Documentation
 
 Welcome to the working hand-over for the **Netherlands ME/CFS Cohort and Biobank (NMCB)** data management and data infrastructure role.
 
