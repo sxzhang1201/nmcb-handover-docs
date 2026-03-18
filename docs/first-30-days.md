@@ -4,6 +4,7 @@ This page is a practical onboarding sequence for the next person taking over the
 
 ## Week 1
 
+- Review the [data lifecycle overview](lifecycle/index.md) to understand the pipeline.
 - Obtain access to all core systems and shared folders.
 - Review the regular task rhythm.
 - Confirm where the current source of truth is for participant identifiers.

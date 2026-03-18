@@ -1,4 +1,4 @@
-# NMCB Data Manager Hand-over Documentation
+# NMCB hand-over documentation
 
 Welcome to the working hand-over for the **Netherlands ME/CFS Cohort and Biobank (NMCB)** data management and data infrastructure role.
 
@@ -9,30 +9,13 @@ This documentation is written to make the role:
 - easier to maintain
 - less dependent on tacit knowledge
 
-## What this site covers
+## How this site is organised
 
-This hand-over focuses on the part of the role that sits between **study operations**, **data management**, and **data engineering**.
-
-The current responsibility set includes work around:
-
-- regular operational follow-up, such as mailbox review, visit tracking, and subject ID tracking
-- Castor EDC workflows and eligibility logic
-- device data handling and quality control
-- scripts for cleaning, transforming, and extracting data
-- Snowflake and structured data workflows
-- biobank and multicentre data flows
-- data request procedures and supporting documentation
-
-## Main responsibility domains
-
-| Domain | Examples |
-|---|---|
-| Operations | Weekly mailbox, visit log, subject ID log, Linked2Trial screening flow |
-| Data capture | Castor forms, calculations, reminders, file uploads |
-| Data infrastructure | File structure, data pipeline design, SQL/Snowflake, OMOP thinking |
-| Devices | Nellcor, Tanita, VU-AMS, Amsterdam Cognitive Scan, iPad setup |
-| Scripts | Eligibility, inclusion criteria, ME criteria, compilation scripts |
-| Governance | Data request process, SOPs, sample and data request forms |
+| Section | Purpose |
+|---------|---------|
+| **Data Lifecycle** | How data flows: collection → storage → cleaning → modelling → distribution |
+| **Systems** | Reference documentation for Castor, devices, scripts, Snowflake, biobank |
+| **Operations & Governance** | Recurring tasks, data requests, SOPs, escalation |
 
 ## How to use this documentation
 
@@ -42,7 +25,11 @@ Start with:
 2. [First 30 days](first-30-days.md)
 3. [Where everything lives](where-everything-lives.md)
 
-Then use the section navigation for the relevant workflow.
+Then follow the data flow:
+
+1. [Data lifecycle overview](lifecycle/index.md) — understand the pipeline
+2. Use the **Systems** section for detailed tool documentation
+3. Use **Operations & Governance** for recurring tasks and procedures
 
 ## Important note
 

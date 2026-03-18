@@ -25,11 +25,13 @@ nav:
       - Scope of this hand-over: getting-started.md
       - First 30 days: first-30-days.md
       - Where everything lives: where-everything-lives.md
-  - Operations:
-      - Operations overview: operations/index.md
-      - Regular tasks: operations/regular-tasks.md
-      - Task template: operations/task-template.md
-      - Issue log and escalation: operations/escalation.md
+  - Data Lifecycle:
+      - Lifecycle overview: lifecycle/index.md
+      - Collection: lifecycle/collection.md
+      - Storage: lifecycle/storage.md
+      - Cleaning: lifecycle/cleaning.md
+      - Modelling: lifecycle/modelling.md
+      - Distribution: lifecycle/distribution.md
   - Systems:
       - Data architecture: systems/data-architecture.md
       - Castor EDC: systems/castor.md
@@ -37,7 +39,11 @@ nav:
       - Scripts and automation: systems/scripts.md
       - Snowflake and structured data: systems/snowflake.md
       - Biobank and multicentre data: systems/biobank.md
-  - Governance:
+  - Operations & Governance:
+      - Operations overview: operations/index.md
+      - Regular tasks: operations/regular-tasks.md
+      - Task template: operations/task-template.md
+      - Issue log and escalation: operations/escalation.md
       - Data requests: governance/data-requests.md
       - SOPs and documentation: governance/sops.md
       - Risks and improvement backlog: governance/backlog.md

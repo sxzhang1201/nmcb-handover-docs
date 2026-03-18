@@ -2,6 +2,8 @@
 
 Castor is the main data capture environment for study forms, survey logic, and participant-related study data.
 
+*Lifecycle stage: [Collection](../lifecycle/collection.md) (data capture); [Modelling](../lifecycle/modelling.md) (eligibility logic)*
+
 ## Current Castor-related task themes from the board
 
 - review of calculations

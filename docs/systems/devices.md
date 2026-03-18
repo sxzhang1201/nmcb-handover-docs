@@ -1,5 +1,7 @@
 # Devices and QC
 
+*Lifecycle stages: [Collection](../lifecycle/collection.md) (data capture); [Cleaning](../lifecycle/cleaning.md) (QC and conversion)*
+
 The task board shows several device-related workflows. These need explicit documentation because device data often contains the highest amount of tacit operational knowledge.
 
 ## Device topics visible in the board

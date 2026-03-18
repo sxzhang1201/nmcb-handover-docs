@@ -1,5 +1,7 @@
 # Data architecture
 
+This page provides a systems-level overview. For a stage-by-stage view of the data flow, see the [Data lifecycle](../lifecycle/index.md).
+
 ## Overview
 
 NMCB data currently spans several operational and analytical domains:
