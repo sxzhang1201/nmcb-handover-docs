@@ -51,8 +51,8 @@ nav:
   - Operations & Governance:
       - Operations overview: operations/index.md
       - Regular tasks: operations/regular-tasks.md
-      - Task template: operations/task-template.md
       - Issue log and escalation: operations/escalation.md
       - Data requests: governance/data-requests.md
       - SOPs and documentation: governance/sops.md
       - Risks and improvement backlog: governance/backlog.md
+      - Task template: operations/task-template.md
