@@ -1,8 +1,8 @@
-# Data distribution
+# Data issuing
 
-This stage covers how data is shared: data requests, multicentre transfers, and extracts.
+This stage covers how data is shared with requesters: data requests, multicentre transfers, and internal extracts.
 
-## Main distribution channels
+## Main issuing channels
 
 | Channel | Purpose | Documentation |
 |---------|---------|---------------|

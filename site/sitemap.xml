@@ -33,6 +33,10 @@
          <lastmod>2026-03-18</lastmod>
     </url>
     <url>
+         <loc>https://example.github.io/nmcb-handover/lifecycle/analysis/</loc>
+         <lastmod>2026-03-18</lastmod>
+    </url>
+    <url>
          <loc>https://example.github.io/nmcb-handover/lifecycle/cleaning/</loc>
          <lastmod>2026-03-18</lastmod>
     </url>
@@ -41,11 +45,19 @@
          <lastmod>2026-03-18</lastmod>
     </url>
     <url>
-         <loc>https://example.github.io/nmcb-handover/lifecycle/distribution/</loc>
+         <loc>https://example.github.io/nmcb-handover/lifecycle/design/</loc>
+         <lastmod>2026-03-18</lastmod>
+    </url>
+    <url>
+         <loc>https://example.github.io/nmcb-handover/lifecycle/issuing/</loc>
          <lastmod>2026-03-18</lastmod>
     </url>
     <url>
          <loc>https://example.github.io/nmcb-handover/lifecycle/modelling/</loc>
+         <lastmod>2026-03-18</lastmod>
+    </url>
+    <url>
+         <loc>https://example.github.io/nmcb-handover/lifecycle/publication/</loc>
          <lastmod>2026-03-18</lastmod>
     </url>
     <url>

@@ -27,11 +27,14 @@ nav:
       - Where everything lives: where-everything-lives.md
   - Data Lifecycle:
       - Lifecycle overview: lifecycle/index.md
+      - Design: lifecycle/design.md
       - Collection: lifecycle/collection.md
       - Storage: lifecycle/storage.md
       - Cleaning: lifecycle/cleaning.md
       - Modelling: lifecycle/modelling.md
-      - Distribution: lifecycle/distribution.md
+      - Issuing: lifecycle/issuing.md
+      - Analysis: lifecycle/analysis.md
+      - Publication: lifecycle/publication.md
   - Systems:
       - Data architecture: systems/data-architecture.md
       - Castor EDC: systems/castor.md

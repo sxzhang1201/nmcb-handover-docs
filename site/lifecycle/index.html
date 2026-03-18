@@ -16,7 +16,7 @@
         <link rel="prev" href="../where-everything-lives/">
       
       
-        <link rel="next" href="collection/">
+        <link rel="next" href="design/">
       
       
         
@@ -547,6 +547,34 @@
   
   
     <li class="md-nav__item">
+      <a href="design/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="collection/" class="md-nav__link">
         
   
@@ -659,14 +687,70 @@
   
   
     <li class="md-nav__item">
-      <a href="distribution/" class="md-nav__link">
+      <a href="issuing/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
     
   
-    Distribution
+    Issuing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="analysis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Analysis
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="publication/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Publication
   
 
     
@@ -1261,9 +1345,9 @@
 
 
 <h1 id="data-lifecycle-overview">Data lifecycle overview<a class="headerlink" href="#data-lifecycle-overview" title="Permanent link">&para;</a></h1>
-<p>NMCB data flows through five main stages. Understanding this flow helps you know where data comes from, how it is transformed, and where it goes.</p>
+<p>NMCB data flows through eight main stages. Understanding this flow helps you know where data comes from, how it is transformed, and where it goes.</p>
 <h2 id="the-pipeline">The pipeline<a class="headerlink" href="#the-pipeline" title="Permanent link">&para;</a></h2>
-<pre><code class="language-text">Collection  →  Storage  →  Cleaning  →  Modelling  →  Distribution
+<pre><code class="language-text">Design  →  Collection  →  Storage  →  Cleaning  →  Modelling  →  Issuing  →  Analysis  →  Publication
 </code></pre>
 <table>
 <thead>
@@ -1274,6 +1358,11 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Design</strong></td>
+<td>Planning before collection</td>
+<td>Variable definitions, form structure, identifier scheme</td>
+</tr>
 <tr>
 <td><strong>Collection</strong></td>
 <td>Data is captured at source</td>
@@ -1295,9 +1384,19 @@
 <td>Snowflake, eligibility logic</td>
 </tr>
 <tr>
-<td><strong>Distribution</strong></td>
+<td><strong>Issuing</strong></td>
 <td>Data is shared with requesters</td>
 <td>Data requests, multicentre transfers</td>
+</tr>
+<tr>
+<td><strong>Analysis</strong></td>
+<td>Statistical and exploratory work</td>
+<td>Scripts, notebooks</td>
+</tr>
+<tr>
+<td><strong>Publication</strong></td>
+<td>Findings and data are made public</td>
+<td>Papers, reports, data repositories</td>
 </tr>
 </tbody>
 </table>
@@ -1325,11 +1424,14 @@
 <h2 id="next-steps">Next steps<a class="headerlink" href="#next-steps" title="Permanent link">&para;</a></h2>
 <p>Use the lifecycle pages to understand each stage:</p>
 <ol>
+<li><a href="design/">Design</a> — Planning, variable definitions, identifier scheme</li>
 <li><a href="collection/">Collection</a> — Castor, devices, Linked2Trial</li>
 <li><a href="storage/">Storage</a> — File structure, Snowflake, biobank</li>
 <li><a href="cleaning/">Cleaning</a> — Device QC, conversion scripts</li>
 <li><a href="modelling/">Modelling</a> — Snowflake structures, eligibility logic</li>
-<li><a href="distribution/">Distribution</a> — Data requests, multicentre transfers</li>
+<li><a href="issuing/">Issuing</a> — Data requests, multicentre transfers</li>
+<li><a href="analysis/">Analysis</a> — Statistical and exploratory work</li>
+<li><a href="publication/">Publication</a> — Papers, reports, data sharing</li>
 </ol>
 <p>For detailed system documentation, see the <a href="../systems/data-architecture/">Systems reference</a>.</p>
 

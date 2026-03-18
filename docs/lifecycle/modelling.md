@@ -38,3 +38,7 @@ Moving logic into Snowflake can be beneficial, but only if business rules remain
 ## OMOP
 
 Mapping NMCB data toward OMOP is on the roadmap. Document OMOP considerations only after core operational flows are stable.
+
+## Next stage
+
+Structured data feeds into [Issuing](issuing.md) (extracts, data requests) and [Analysis](analysis.md).

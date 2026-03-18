@@ -13,7 +13,7 @@ This documentation is written to make the role:
 
 | Section | Purpose |
 |---------|---------|
-| **Data Lifecycle** | How data flows: collection → storage → cleaning → modelling → distribution |
+| **Data Lifecycle** | How data flows: design → collection → storage → cleaning → modelling → issuing → analysis → publication |
 | **Systems** | Reference documentation for Castor, devices, scripts, Snowflake, biobank |
 | **Operations & Governance** | Recurring tasks, data requests, SOPs, escalation |
 

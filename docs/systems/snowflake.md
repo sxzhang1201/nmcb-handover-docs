@@ -1,6 +1,6 @@
 # Snowflake and structured data
 
-*Lifecycle stages: [Storage](../lifecycle/storage.md); [Modelling](../lifecycle/modelling.md); [Distribution](../lifecycle/distribution.md) (extracts)*
+*Lifecycle stages: [Storage](../lifecycle/storage.md); [Modelling](../lifecycle/modelling.md); [Issuing](../lifecycle/issuing.md) (extracts)*
 
 The board includes several tasks related to SQL and Snowflake, including setup testing, connection fixes, and automated eligibility ideas.
 

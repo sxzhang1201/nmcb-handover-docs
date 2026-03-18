@@ -1,6 +1,6 @@
 # Biobank and multicentre data
 
-*Lifecycle stages: [Storage](../lifecycle/storage.md) (sample metadata); [Distribution](../lifecycle/distribution.md) (multicentre transfers)*
+*Lifecycle stages: [Storage](../lifecycle/storage.md) (sample metadata); [Issuing](../lifecycle/issuing.md) (multicentre transfers)*
 
 The board shows a meaningful cluster of work around biobank flow and multicentre collaboration.
 

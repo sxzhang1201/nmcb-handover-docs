@@ -1,6 +1,6 @@
 # Scripts and automation
 
-*Lifecycle stages: [Cleaning](../lifecycle/cleaning.md) (conversion, QC); [Modelling](../lifecycle/modelling.md) (eligibility); [Distribution](../lifecycle/distribution.md) (extracts)*
+*Lifecycle stages: [Cleaning](../lifecycle/cleaning.md) (conversion, QC); [Modelling](../lifecycle/modelling.md) (eligibility); [Issuing](../lifecycle/issuing.md) (extracts)*
 
 The board indicates a substantial amount of scripting work in Python and R.
 

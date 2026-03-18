@@ -1,6 +1,6 @@
 # Data collection
 
-This stage covers how data is captured at source: study forms, device outputs, and recruitment screeners.
+This stage covers how data is captured at source: study forms, device outputs, and recruitment screeners. Design decisions from [Design](design.md) are implemented here.
 
 ## Main collection sources
 
