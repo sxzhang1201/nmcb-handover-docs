@@ -38,4 +38,4 @@ A good storage structure should separate:
 
 ## Minimum expectation
 
-Every critical workflow documented on this site should point back to an actual folder, system, or repository here.
+Every critical workflow documented on this site should point back to an actual folder, system, or repository here. Procedure pages live under [Workflows](workflows/index.md).

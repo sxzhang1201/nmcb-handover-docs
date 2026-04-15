@@ -13,23 +13,22 @@ This documentation is written to make the role:
 
 | Section | Purpose |
 |---------|---------|
-| **Data Lifecycle** | How data flows: design → collection → storage → cleaning → modelling → issuing → analysis → publication |
+| **Workflows** | CDL/RDL alerts, multicentre sample handling, devices, data and sample requests, recurring routines |
 | **Systems** | Reference documentation for Castor, devices, scripts, Snowflake, biobank |
-| **Operations & Governance** | Recurring tasks, data requests, SOPs, escalation |
+| **Governance** | Data request policy, escalation, SOPs, backlog, task template |
 
 ## How to use this documentation
 
 Start with:
 
 1. [Scope of this hand-over](getting-started.md)
-2. [First 30 days](first-30-days.md)
-3. [Where everything lives](where-everything-lives.md)
+2. [Where everything lives](where-everything-lives.md)
 
-Then follow the data flow:
+Then use:
 
-1. [Data lifecycle overview](lifecycle/index.md) — understand the pipeline
-2. Use the **Systems** section for detailed tool documentation
-3. Use **Operations & Governance** for recurring tasks and procedures
+1. **Workflows** for end-to-end procedures (alerts, biobank, devices, requests)
+2. **Systems** for Castor, devices, storage, and integrations
+3. **Governance** for request policy, SOPs, escalation, and backlog
 
 ## Important note
 

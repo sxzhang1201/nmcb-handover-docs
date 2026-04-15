@@ -1,8 +1,13 @@
 # Biobank data
 
-*Lifecycle stages: [Storage](../lifecycle/storage.md) (sample metadata); [Issuing](../lifecycle/issuing.md) (sample preparation)*
+*Role in NMCB: sample metadata; sample preparation and request workflows.*
 
-The board shows work around biobank data flow and sample management.
+End-to-end procedures are documented under **Workflows**:
+
+- [Multi-centre sample data workflow](../workflows/multicentre-sample-data-workflow.md) — Radboud RL file, processing, boxing, submission  
+- [CDL alert workflow](../workflows/cdl-alert-workflow.md) — CRL / CDL lab results and clinical follow-up  
+- [RDL alert workflow](../workflows/rdl-alert-workflow.md) — Radboud diagnostic lab (placeholder until SOPs are fixed)  
+- [Sample request workflow](../workflows/sample-request-workflow.md) — requesting samples from the biobank  
 
 ## Related system
 
@@ -16,29 +21,3 @@ Sample tracking is done in [OpenSpecimen](openspecimen.md), the biobank system u
 - prepare input file for biobank
 - clean dirty ML data
 - script and protocol for biobank data flow
-
-## Handover priorities
-
-### 1. Data flow clarity
-
-Document the full biobank flow from source to destination:
-
-1. where sample metadata originates
-2. how it is cleaned or transformed
-3. what template is used
-4. who receives the prepared file
-5. how completion is confirmed
-
-### 2. Template governance
-
-If multiple templates exist, define:
-
-- which template is current
-- version number or date
-- owner of the template
-- mandatory columns
-- validation rules before sending
-
-## Operational risk
-
-Biobank workflows are vulnerable to confusion when naming conventions, sample identifiers, or template versions are not tightly controlled.

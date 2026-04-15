@@ -1,6 +1,6 @@
 # OpenSpecimen
 
-*Lifecycle stages: [Storage](../lifecycle/storage.md) (sample tracking); [Issuing](../lifecycle/issuing.md) (sample requests)*
+*Role: sample tracking and sample request workflows.*
 
 OpenSpecimen is the biobank system used for tracking samples.
 

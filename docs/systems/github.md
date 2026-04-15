@@ -1,6 +1,6 @@
 # GitHub
 
-*Lifecycle stages: [Design](../lifecycle/design.md) (version control); [Modelling](../lifecycle/modelling.md); [Analysis](../lifecycle/analysis.md)*
+*Role: version control for study code and related analysis artefacts.*
 
 GitHub is used for version control of scripts, code, and documentation.
 

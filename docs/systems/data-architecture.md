@@ -1,6 +1,6 @@
 # Data architecture
 
-This page provides a systems-level overview. For a stage-by-stage view of the data flow, see the [Data lifecycle](../lifecycle/index.md).
+This page provides a systems-level overview. For procedures, see [Workflows](../workflows/index.md).
 
 ## Overview
 

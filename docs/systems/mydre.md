@@ -1,6 +1,6 @@
 # myDRE
 
-*Lifecycle stage: [Issuing](../lifecycle/issuing.md)*
+*Role: secure environment for sharing datasets with researchers.*
 
 myDRE is used for data issuing: it provides a secure environment where data requestors can analyze data without receiving raw data exports.
 

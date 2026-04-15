@@ -1,32 +1,32 @@
-# SOPs and documentation
+# Data SOPs
 
-The board includes SOP-related work on overview, withdrawal, LDOT operations, and multicentre data transfer.
+The board lists the Standard Operation Procedure (SOP) documents related to raw data collection in daily routine.
 
-## Principle
+## SOP in main center
 
-Operational pages in this site are not a substitute for formal SOPs. They should complement each other.
 
-Use this documentation site for:
+| SOP                          | Version | Usage                                                                      | Target                                       | Location |
+| ---------------------------- | ------- | -------------------------------------------------------------------------- | -------------------------------------------- | -------- |
+| Device Software Installation | `TBD`   | `Guidance on software installation for a new iPad or laptop`               | `Data team`                                  | `TBD`    |
+| Device Data Transfer         | `TBD`   | `Extraction and transfer of data from devices to designated storage place` | `Nurses and assistants`                      | `TBD`    |
+| Data Log                     | `TBD`   | `To log if data of each source is successfully collected`                  | `Data team`                                  | `TBD`    |
+| Subject ID Log               | `TBD`   | `To log Personal Identifiable Information of visit-done participants`      | `Only authorized assistants or data manager` | `TBD`    |
+| Castor Change Management     | `TBD`   | `Backup procedure when Castor changes`                                     | `Castor Admin`                               | `TBD`    |
+| Withdrawal                   | `TBD`   | `Dealing with data when a participant quits`                               | `Data team`                                  | `TBD`    |
 
-- practical instructions
-- process maps
-- location of files and scripts
-- high-level logic
 
-Use formal SOPs for:
+## SOP in multi centers
 
-- approved procedural standards
-- compliance-sensitive actions
-- official version-controlled instructions that require sign-off
 
-## Recommended SOP index
+| SOP                               | Version | Usage                                                                     | Target              | Location |
+| --------------------------------- | ------- | ------------------------------------------------------------------------- | ------------------- | -------- |
+| Multi-centre Data Transfer        | `TBD`   | `Deviation of the SOP above and fits into multi-centre contexts`          | `Multi-centre team` | `TBD`    |
+| Sample Processing and Boxing Data | `TBD`   | `Instructions on using data template after processing and boxing samples` | `Multi-centre team` | `TBD`    |
+| Multi-center Data Log             | `TBD`   | `To log if data of each source is successfully collected`                 | `Data team`         | `TBD`    |
 
-| SOP | Status | Owner | Location |
-|---|---|---|---|
-| Withdrawal | `TBD` | `TBD` | `TBD` |
-| Multi-centre data transfer | `TBD` | `TBD` | `TBD` |
-| LDOT operations | `TBD` | `TBD` | `TBD` |
 
 ## Maintenance rule
 
-Whenever an SOP changes, review the linked practical documentation page as well. The two should not drift apart.
+1. Whenever an SOP changes, archive the old one, add new version number to the new one, and add the contributor(s).
+2. Every two months, review SOPs to check if they are functioning.
+

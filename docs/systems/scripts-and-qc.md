@@ -1,6 +1,6 @@
 # Scripts and QC
 
-*Lifecycle stages: [Cleaning](../lifecycle/cleaning.md) (conversion, QC); [Modelling](../lifecycle/modelling.md) (eligibility); [Issuing](../lifecycle/issuing.md) (extracts); [Analysis](../lifecycle/analysis.md) (summary counts)*
+*Role: conversion and QC scripts; eligibility-related logic; extracts and summary counts.*
 
 The board indicates a substantial amount of scripting work in Python and R, including quality control of device outputs.
 

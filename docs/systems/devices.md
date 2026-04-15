@@ -1,6 +1,8 @@
 # Devices
 
-*Lifecycle stage: [Collection](../lifecycle/collection.md) (data capture)*
+*Role: device outputs and visit-related measurements.*
+
+For the **flow** from capture to QC and scripts, see [Device data workflow](../workflows/device-data-workflow.md).
 
 The task board shows several device-related workflows. Device data capture needs explicit documentation because it often contains tacit operational knowledge.
 
@@ -22,6 +24,10 @@ For each device, document:
 2. raw output format
 3. naming convention
 4. where output is stored for QC (see [Scripts and QC](scripts-and-qc.md))
+
+## Omron
+
+Logi in is required for using the `OMRON connect` application, and login in detail can be found at: https://amsterdamumc.sharepoint.com/sites/CoreTeam/Shared%20Documents/Team%20Management/Login%20details?csf=1&web=1&e=wMYiGW
 
 ## Nellcor
 

@@ -9,7 +9,7 @@ This role supports the NMCB study as a bridge between:
 - data management
 - lightweight data engineering
 
-The work is not only about keeping data tidy. It also includes designing workflows that reduce manual work, improve traceability, and make future data sharing easier.
+The work is not only about keeping data tidy. It also includes designing workflows that reduce manual work, improve traceability, and make future data sharing easier. 
 
 ## In scope
 
@@ -45,3 +45,4 @@ The next person should be able to do the work without relying on memory-based ex
 - output
 - checks
 - common failure points
+

@@ -23,18 +23,16 @@ nav:
   - Home: index.md
   - Getting Started:
       - Scope of this hand-over: getting-started.md
-      - First 30 days: first-30-days.md
       - Where everything lives: where-everything-lives.md
-  - Data Lifecycle:
-      - Lifecycle overview: lifecycle/index.md
-      - Design: lifecycle/design.md
-      - Collection: lifecycle/collection.md
-      - Storage: lifecycle/storage.md
-      - Cleaning: lifecycle/cleaning.md
-      - Modelling: lifecycle/modelling.md
-      - Issuing: lifecycle/issuing.md
-      - Analysis: lifecycle/analysis.md
-      - Publication: lifecycle/publication.md
+  - Workflows:
+      - Overview: workflows/index.md
+      - CDL alert workflow: workflows/cdl-alert-workflow.md
+      - RDL alert workflow: workflows/rdl-alert-workflow.md
+      - Multi-centre sample data workflow: workflows/multicentre-sample-data-workflow.md
+      - Device data workflow: workflows/device-data-workflow.md
+      - Data request workflow: workflows/data-request-workflow.md
+      - Sample request workflow: workflows/sample-request-workflow.md
+      - Recurring study routines: workflows/recurring-routines.md
   - Systems:
       - Data architecture: systems/data-architecture.md
       - Castor EDC: systems/castor.md
@@ -48,11 +46,9 @@ nav:
       - myDRE: systems/mydre.md
       - LDOT: systems/ldot.md
       - GitHub: systems/github.md
-  - Operations & Governance:
-      - Operations overview: operations/index.md
-      - Regular tasks: operations/regular-tasks.md
-      - Issue log and escalation: operations/escalation.md
+  - Governance:
       - Data requests: governance/data-requests.md
+      - Issue log and escalation: governance/escalation.md
       - SOPs and documentation: governance/sops.md
       - Risks and improvement backlog: governance/backlog.md
-      - Task template: operations/task-template.md
+      - Task template: governance/task-template.md

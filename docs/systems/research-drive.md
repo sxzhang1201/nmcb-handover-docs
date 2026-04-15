@@ -1,6 +1,6 @@
 # Research Drive
 
-*Lifecycle stages: [Storage](../lifecycle/storage.md); [Design](../lifecycle/design.md) (folder structure)*
+*Role: shared file storage and study folder layout.*
 
 The Research Drive is the primary file storage for NMCB data, scripts, and documentation.
 

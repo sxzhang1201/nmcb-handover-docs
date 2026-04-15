@@ -1,6 +1,6 @@
 # Snowflake and structured data
 
-*Lifecycle stages: [Storage](../lifecycle/storage.md); [Modelling](../lifecycle/modelling.md); [Issuing](../lifecycle/issuing.md) (extracts)*
+*Role: structured storage; modelling and eligibility outputs; extracts for requests and downstream use.*
 
 The board includes several tasks related to SQL and Snowflake, including setup testing, connection fixes, and automated eligibility ideas.
 
